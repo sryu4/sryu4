@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 <a herf="https://asked.kr/hindoing">Ask me about ...</a>
+- 💬 Ask me about anything!
 - https://asked.kr/hindoing
 
 ![sryu4 GitHub Stats](https://server.dooboo.io/github-stats-advanced/sryu4)
