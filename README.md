@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋!
 
 - 💬 Ask me about anything!
 - https://asked.kr/hindoing
